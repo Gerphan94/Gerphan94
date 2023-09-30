@@ -2,7 +2,7 @@
 👋 Hey everyone, I'm Duc Phan
 🐞Quality Control🐞
 
-[LinkedIn](https://www.linkedin.com/in/gerphan94)
+[![LinkedIn Logo]([https://example.com/linkedin_logo.png](https://github.com/Gerphan94/Gerphan94/blob/main/Image/linkedin.png)](https://www.linkedin.com/in/gerphan94)
 [Dev.to](https://dev.to/gerphan94)
 [Email](ducpn1194@gmail.com)
 
