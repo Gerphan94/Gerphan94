@@ -11,4 +11,4 @@
 
 ![github-snake.svg](https://github.com/Gerphan94/Gerphan94/blob/output/github-contribution-grid-snake.svg)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,sql,api)](https://skillicons.dev)
