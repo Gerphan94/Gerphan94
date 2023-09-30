@@ -8,3 +8,8 @@
 [![Gmail Logo](https://raw.githubusercontent.com/Gerphan94/Gerphan94/main/Image/gmail.ico)](ducpn1194@gmail.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gerphan94)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
