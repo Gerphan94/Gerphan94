@@ -8,3 +8,4 @@
 [![Gmail Logo](https://raw.githubusercontent.com/Gerphan94/Gerphan94/main/Image/gmail.ico)](ducpn1194@gmail.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gerphan94)](https://git.io/streak-stats)
+![Snake svg](https://github.com/Gerphan94/Gerphan94/blob/output/github-contribution-grid-snake.svg)
