@@ -8,7 +8,10 @@
 [![Gmail Logo](https://raw.githubusercontent.com/Gerphan94/Gerphan94/main/Image/gmail.ico)](ducpn1194@gmail.com)
 
 
+<div style="display: flex; justify-content: center;">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gerphan94)](https://git.io/streak-stats)
+</div>
 	
 
 
