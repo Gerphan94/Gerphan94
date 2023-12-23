@@ -7,8 +7,7 @@
 [![Devto Logo](https://raw.githubusercontent.com/Gerphan94/Gerphan94/main/Image/devto.ico)](https://dev.to/gerphan94)
 [![Gmail Logo](https://raw.githubusercontent.com/Gerphan94/Gerphan94/main/Image/gmail.ico)](ducpn1194@gmail.com)
 
-
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gerphan94&theme=onedark&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gerphan94&theme=shades-of-purple&card_width=1000)](https://git.io/streak-stats)
 
 ![github-snake.svg](https://github.com/Gerphan94/Gerphan94/blob/output/github-contribution-grid-snake.svg)
 
